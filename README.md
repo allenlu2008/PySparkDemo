@@ -1,4 +1,15 @@
 # PySparkDemo
-PySpark算子及空间应用的各个Demo
 
-# 注意：直接下载ipynb文件的话，是一个HTML页面，所以需要源码的，右上角请通过clone或者下载整个zip
+### 虾神的开源代码Demo示例
+
+### 介绍
+PySpark算子及空间计算应用Demo库
+
+## 注意：
+####
+ipynb是jupyter notebok的源码，大家可以下载下来在自己的环境里面运行
+
+#### md是markdown文档，可以直接打开查看代码和说明
+
+### 更多相关文章内容，请关注虾神公众号:
+<img src="./img/wx.jpg"/>
